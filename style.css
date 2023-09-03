@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2B2828;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: #cc9900;
+  }
+  
+  LamborghiniImage1 {
+    float: right;
+    margin: 0 0 10px 10px;
+  }
+  
+  figcaption {
+    font-size: 20px
+  }
+  
+  figcaption {
+    font-family: Cambria
+  }
+  
+  figcaption {
+    font-color: #2B2828
+  }
+  
+  h3 {
+    font-size: 40px
+  }
